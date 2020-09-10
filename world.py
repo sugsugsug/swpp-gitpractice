@@ -5,7 +5,6 @@ def hello_world():
     print("hello world")
 
 def bye_world():
-
     time.sleep(2)
     print("bye world")
 
